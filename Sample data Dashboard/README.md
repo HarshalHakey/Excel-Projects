@@ -1,1 +1,1 @@
-![Dashboard](Sample Data Dashboard.PNG)
+![Dashboard](SampleDataDashboard.PNG)
